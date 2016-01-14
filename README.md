@@ -13,7 +13,7 @@ Besides the resources below, you can always find interactive tutorials on:
 - [CSS](#css)
 - [Javascript](#javascript)
 - [jQuery](#jquery)
-- [Angular.js v1](#angular.jsv1)
+- [Angular.js v1](#angular.js-v1)
 - [PHP](#php)
 - [mySQL](#mysql)
 - [Wordpress](#wordpress)
