@@ -18,9 +18,8 @@ Besides the resources below, you can always find interactive tutorials on:
 - [mySQL](#mysql)
 - [Wordpress](#wordpress)
 - [Git](#git)
-- [Node.js](#node.js)
-- [npm](#npm)
-- [Gulp.js](#gulp.js)
+- [Node.js](#nodejs)
+- [Gulp.js](#gulpjs)
 - [MongoDB](#mongodb)
 
 ## HTML
