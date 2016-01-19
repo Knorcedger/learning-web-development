@@ -76,6 +76,7 @@ interactive effects within web browsers.
 - [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 - [(Re)Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ### JavaScript Knowledge Meter
 
@@ -230,6 +231,7 @@ z and IBM i.
 environment Node.js.
 
 - [The Art of Node](https://github.com/maxogden/art-of-node)
+- [NodeGuide](http://nodeguide.com/)
 
 ### Node.js Knowledge Meter
 
