@@ -19,6 +19,7 @@ Besides the resources below, you can always find interactive tutorials on:
 - [Wordpress](#wordpress)
 - [Git](#git)
 - [Node.js](#nodejs)
+- [Useful npm Modules](#useful-npm-modules)
 - [Gulp.js](#gulpjs)
 - [MongoDB](#mongodb)
 
@@ -243,6 +244,15 @@ environment Node.js.
 - [ ] Request/Response
 - [ ] Modules
 - [ ] Events
+
+### Useful npm Modules
+
+- [Yeoman](http://yeoman.io/)
+- [Node Inspector](https://github.com/node-inspector/node-inspector)
+- [Bower](http://bower.io/)
+- [Fixpack](https://github.com/henrikjoreteg/fixpack)
+- [npm Check Updates](https://github.com/tjunnone/npm-check-updates)
+- [My Yeoman Project Generator](https://github.com/Knorcedger/generator-knr-generator)
 
 ## Gulp.js
 
