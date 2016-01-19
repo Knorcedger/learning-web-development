@@ -53,6 +53,7 @@ Sheets (CSS).
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors)
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Sass](http://sass-lang.com/guide)
+- [Awesome CSS](https://github.com/sotayamashita/awesome-css)
 
 ### CSS Knowledge Meter
 
@@ -77,6 +78,7 @@ interactive effects within web browsers.
 - [(Re)Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 
 ### JavaScript Knowledge Meter
 
@@ -232,6 +234,9 @@ environment Node.js.
 
 - [The Art of Node](https://github.com/maxogden/art-of-node)
 - [NodeGuide](http://nodeguide.com/)
+- [SemVer a Primer](https://nodesource.com/blog/semver-a-primer/)
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [Awesome npm](https://github.com/sindresorhus/awesome-npm)
 
 ### Node.js Knowledge Meter
 
