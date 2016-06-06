@@ -11,12 +11,12 @@ Besides the resources below, you can always find interactive tutorials on:
 
 - [HTML](#html)
 - [CSS](#css)
-- [Javascript](#javascript)
+- [JavaScript](#javascript)
 - [jQuery](#jquery)
 - [Angular.js v1](#angularjs-v1)
 - [PHP](#php)
 - [mySQL](#mysql)
-- [Wordpress](#wordpress)
+- [WordPress](#wordpress)
 - [Git](#git)
 - [Node.js](#nodejs)
 - [Useful npm Modules](#useful-npm-modules)
@@ -177,7 +177,7 @@ noted for its quick processing, proven reliability, ease and flexibility of use.
 - [ ] Where
 - [ ] phpMyAdmin
 
-## Wordpress
+## WordPress
 
 WordPress is an online, open source website creation tool written in PHP. But
 in non-geek speak, it's probably the easiest and most powerful blogging and
