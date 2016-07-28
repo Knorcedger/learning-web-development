@@ -80,6 +80,7 @@ interactive effects within web browsers.
 - [Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [ES6 (es2015)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
 
 ### JavaScript Knowledge Meter
 
@@ -90,6 +91,7 @@ interactive effects within web browsers.
 - [ ] Values that are false
 - [ ] Closures
 - [ ] Prototypes
+- [ ] ES6
 
 ## jQuery
 
