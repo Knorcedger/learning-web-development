@@ -29,7 +29,7 @@ Besides the resources below, you can always find interactive tutorials on:
 Hypertext Markup Language, a standardized system for tagging text files to
 achieve font, color, graphic, and hyperlink effects on World Wide Web pages.
 
-- [The Basics of HTML](http://docs.webplatform.org/wiki/guides/the_basics_of_html)
+- [The Basics of HTML](https://www.webplatform.org/docs/guides/the_basics_of_html/)
 - [Basic Structure of a Web Page](http://www.sitepoint.com/web-foundations/basic-structure-of-a-web-page/)
 - [Basic HTML Tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Sections](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
