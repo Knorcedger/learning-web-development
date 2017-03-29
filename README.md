@@ -153,7 +153,7 @@ write.
 Redux is a predictable state container for JavaScript apps.  
 It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger.
 
-- [You might not neet Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.u1sn9mg5n)
+- [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.u1sn9mg5n)
 - [Complete Documentation](http://redux.js.org/docs/introduction/index.html)
 
 ## PHP
