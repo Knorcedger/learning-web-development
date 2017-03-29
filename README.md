@@ -82,6 +82,7 @@ interactive effects within web browsers.
 - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [ES6 (es2015)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
+- [You Dont know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### JavaScript Knowledge Meter
 
