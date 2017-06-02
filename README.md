@@ -14,6 +14,7 @@ Besides the resources below, you can always find interactive tutorials on:
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
 - [Angular.js v1](#angularjs-v1)
+- [React.js](#reactjs)
 - [Redux](#redux)
 - [PHP](#php)
 - [mySQL](#mysql)
@@ -147,6 +148,17 @@ write.
 - [ ] Angular Messages
 - [ ] Angular Route (ngView)
 - [ ] Providers
+
+## React.js
+
+React is an open-source JavaScript library for building user interfaces.
+
+- [React Fundamentals Egghead.io](https://egghead.io/courses/react-fundamentals)
+
+### React Knowledge Meter
+
+- [ ] Stateless Components
+- [ ] Stateful Components
 
 ## Redux
 
